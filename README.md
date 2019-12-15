@@ -9,4 +9,4 @@ To run the script in any Command Line you need to define two required arguments 
 <br />**--o** (Optional) = _Define the output path, by default it creates the file in '/output'_
 
 #### Usage:
->fileDecryptor.py **--i** *C:\Users\Games\YTTD* **--f** *C:\Users\Games\YTTD\www\img\pictures2\TITLE.rpgmvp* **--o** *C:\Users\ExtractData
+>fileDecryptor.py **--i** *C:\Users\Games\YTTD* **--f** *C:\Users\Games\YTTD\www\img\pictures2\TITLE.rpgmvp* **--o** *C:\Users\ExtractData*
